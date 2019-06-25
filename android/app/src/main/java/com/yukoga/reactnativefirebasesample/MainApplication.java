@@ -1,4 +1,4 @@
-package com.invertase.rnfirebasestarter;
+package com.yukoga.reactnativefirebasesample;
 
 import android.app.Application;
 

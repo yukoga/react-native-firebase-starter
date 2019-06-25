@@ -55,3 +55,8 @@ buck-out/
 # Bundle artifact
 *.jsbundle
 ios/Pods
+
+# google firebase files
+google-services.json
+GoogleService-Info.plist
+
